@@ -1,3 +1,3 @@
 # UM-ATLAS-Multilingual-Sentiment-Analysis
-Final Year Project
+(Final Year Project)
 Train model using Google Colab
